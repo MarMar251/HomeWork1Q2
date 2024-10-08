@@ -4,24 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7230b5dc-8a2e-4912-84f8-dd6b3ef84125" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mtexample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/many-flowers.jpg" afterDir="false" />
+    <list default="true" id="7230b5dc-8a2e-4912-84f8-dd6b3ef84125" name="Changes" comment="second question">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/mtexample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mtexample/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MarMar251"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MarMar251/HomeWork1Q2",
+    "accountId": "f47f4b12-b83b-47d0-b3c9-04e27eddcdcf"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -33,10 +48,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.BlockRecoloringStrategyTest.executor": "Run",
+    "JUnit.BlockRecoloringStrategyTest.testRecolorActualImage.executor": "Run",
+    "JUnit.BlockRecoloringStrategyTest.testRecolorWithDifferentThreadCounts.executor": "Run",
+    "JUnit.HorizontalRecoloringStrategyTest.executor": "Run",
+    "JUnit.HorizontalRecoloringStrategyTest.testRecolorActualImage.executor": "Run",
+    "JUnit.HorizontalRecoloringStrategyTest.testRecolorImage.executor": "Run",
+    "JUnit.HorizontalRecoloringStrategyTest.testRecolorImageWithDifferentThreads.executor": "Run",
+    "JUnit.HorizontalRecoloringStrategyTest.testRecolorWithDifferentThreadCounts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Remi/Desktop/5th_year_/first-St/parallel/HomeWork1",
     "onboarding.tips.debug.path": "C:/Users/Remi/Desktop/5th_year_/practical/HomeWork1Q2/src/main/java/org/mtexample/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
@@ -45,6 +70,67 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Remi\Desktop\5th_year_\practical\HomeWork1Q2\src\main\resources" />
     </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BlockRecoloringStrategyTest.testThreadPerformanceComparison">
+    <configuration name="BlockRecoloringStrategyTest.testRecolorActualImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork1Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlockRecoloringStrategyTest" />
+      <option name="METHOD_NAME" value="testRecolorActualImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockRecoloringStrategyTest.testRecolorWithDifferentThreadCounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork1Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlockRecoloringStrategyTest" />
+      <option name="METHOD_NAME" value="testRecolorWithDifferentThreadCounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlockRecoloringStrategyTest.testThreadPerformanceComparison" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork1Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlockRecoloringStrategyTest" />
+      <option name="METHOD_NAME" value="testThreadPerformanceComparison" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorizontalRecoloringStrategyTest.testRecolorWithDifferentThreadCounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork1Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HorizontalRecoloringStrategyTest" />
+      <option name="METHOD_NAME" value="testRecolorWithDifferentThreadCounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HorizontalRecoloringStrategyTest.testThreadPerformanceComparison" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork1Q2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HorizontalRecoloringStrategyTest" />
+      <option name="METHOD_NAME" value="testThreadPerformanceComparison" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlockRecoloringStrategyTest.testThreadPerformanceComparison" />
+        <item itemvalue="JUnit.HorizontalRecoloringStrategyTest.testThreadPerformanceComparison" />
+        <item itemvalue="JUnit.BlockRecoloringStrategyTest.testRecolorWithDifferentThreadCounts" />
+        <item itemvalue="JUnit.BlockRecoloringStrategyTest.testRecolorActualImage" />
+        <item itemvalue="JUnit.HorizontalRecoloringStrategyTest.testRecolorWithDifferentThreadCounts" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +141,42 @@
       <option name="presentableId" value="Default" />
       <updated>1728405014185</updated>
     </task>
+    <task id="LOCAL-00001" summary="second question">
+      <option name="closed" value="true" />
+      <created>1728405261783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728405261783</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second question" />
+    <option name="LAST_COMMIT_MESSAGE" value="second question" />
   </component>
 </project>
